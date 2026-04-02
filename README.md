@@ -110,4 +110,23 @@ The dataset includes:
 ## 👨‍💻 Author
 
 Kavan Thakar
-Aspiring Data Analyst | Power BI Developer
+Power BI Developer
+
+## 📖 Business Story
+
+The company operates across multiple regions and sales channels but lacks clarity on where revenue and profit are truly coming from.
+
+Using this dashboard, we uncovered that:
+
+* A few regions contribute the majority of revenue
+* Sales performance fluctuates seasonally, with a strong Q1 and weaker Q2
+* A small group of salespeople drive a large portion of total sales
+* Revenue is distributed across channels, reducing dependency risk
+
+This enables leadership to:
+
+* Focus on high-performing regions
+* Improve underperforming areas
+* Optimize sales strategies
+* Make data-driven decisions
+
